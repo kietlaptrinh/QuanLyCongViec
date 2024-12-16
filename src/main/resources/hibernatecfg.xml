@@ -15,7 +15,7 @@
 	<!-- Enable Spring's annotation-driven transaction management -->
 	<tx:annotation-driven/>
 
-	<!-- Enable component scanning for Spring beans -->
+	<!--Spring beans -->
 	<context:component-scan base-package="todolistapp" />
 
 	<!-- DataSource configuration -->
